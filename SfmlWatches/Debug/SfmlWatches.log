@@ -1,0 +1,12 @@
+﻿  Watches.cpp
+C:\Users\Egor\source\repos\SfmlWatches\SfmlWatches\Watches.h(45,45): warning C4244: инициализация: преобразование "size_t" в "const float", возможна потеря данных
+C:\Users\Egor\source\repos\SfmlWatches\SfmlWatches\Watches.h(46,46): warning C4244: инициализация: преобразование "size_t" в "const float", возможна потеря данных
+C:\Users\Egor\source\repos\SfmlWatches\SfmlWatches\Watches.h(59,17): warning C4305: инициализация: усечение из "double" в "const float"
+C:\Users\Egor\source\repos\SfmlWatches\SfmlWatches\Watches.cpp(131,15): warning C4244: инициализация: преобразование "const float" в "size_t", возможна потеря данных
+C:\Users\Egor\source\repos\SfmlWatches\SfmlWatches\Watches.cpp(131,56): warning C4244: +=: преобразование "const float" в "size_t", возможна потеря данных
+  main.cpp
+C:\Users\Egor\source\repos\SfmlWatches\SfmlWatches\Watches.h(45,45): warning C4244: инициализация: преобразование "size_t" в "const float", возможна потеря данных
+C:\Users\Egor\source\repos\SfmlWatches\SfmlWatches\Watches.h(46,46): warning C4244: инициализация: преобразование "size_t" в "const float", возможна потеря данных
+C:\Users\Egor\source\repos\SfmlWatches\SfmlWatches\Watches.h(59,17): warning C4305: инициализация: усечение из "double" в "const float"
+  Создание кода...
+  SfmlWatches.vcxproj -> C:\Users\Egor\source\repos\SfmlWatches\Debug\SfmlWatches.exe

@@ -1,0 +1,48 @@
+﻿  Watches.cpp
+C:\Users\Egor\source\repos\SfmlWatches\SfmlWatches\Watches.cpp(28,44): warning C4244: аргумент: преобразование "size_t" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Egor\source\repos\SfmlWatches\SfmlWatches\Watches.cpp(28,41): warning C4244: аргумент: преобразование "size_t" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Egor\source\repos\SfmlWatches\SfmlWatches\Watches.cpp(29,43): warning C4244: аргумент: преобразование "size_t" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Egor\source\repos\SfmlWatches\SfmlWatches\Watches.cpp(29,40): warning C4244: аргумент: преобразование "size_t" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Egor\source\repos\SfmlWatches\SfmlWatches\Watches.cpp(30,41): warning C4244: аргумент: преобразование "size_t" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Egor\source\repos\SfmlWatches\SfmlWatches\Watches.cpp(30,38): warning C4244: аргумент: преобразование "size_t" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Egor\source\repos\SfmlWatches\SfmlWatches\Watches.cpp(31,49): warning C4244: аргумент: преобразование "size_t" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Egor\source\repos\SfmlWatches\SfmlWatches\Watches.cpp(31,46): warning C4244: аргумент: преобразование "size_t" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  main.cpp
+  Создание кода
+  5 of 313 functions ( 1.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  SfmlWatches.vcxproj -> C:\Users\Egor\source\repos\SfmlWatches\Release\SfmlWatches.exe
